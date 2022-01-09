@@ -2,8 +2,8 @@
 This is main program which will take necessary information for keeping track of prices of your
 favourite product and calls scraper.py and plotter.py as per the requirement.
 
-Author : Suraj-2k19 (Suraj Kumar)
-Date : 13th May 2021
+Author : Suraj838 (Suraj Kumar)
+Date : 17aug 2021
 '''
 
 import sys
@@ -349,7 +349,7 @@ def fill_passcode():
     
 
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
@@ -425,7 +425,7 @@ def fill_mail_id():
     submit_button.clicked.connect(lambda:details_mail_id(mail_id_text.text(),s))    
 
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
@@ -505,7 +505,7 @@ def fill_price_class_box():
     submit_button.clicked.connect(lambda:details_price(price_class_text.text(),s))
     
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
@@ -583,7 +583,7 @@ def fill_prod_class():
 
 
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
@@ -662,7 +662,7 @@ def fill_url():
     
 
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
@@ -740,7 +740,7 @@ def fill_header():
     
 
     #credits
-    cred = QLabel("Made with <3 by Suraj-2k19")
+    cred = QLabel("Made with <3 by Suraj838")
     cred.setStyleSheet(
         "background:'black';"+
         "color:'white';"+
