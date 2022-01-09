@@ -149,7 +149,7 @@ def home():
         submit_button.clicked.connect(lambda:price_plot())
 
         #credits
-        cred = QLabel("Made with <3 by Suraj-2k19")
+        cred = QLabel("Made with <3 by Suraj838")
         cred.setStyleSheet(
             "background:'black';"+
             "color:'white';"+
