@@ -57,5 +57,5 @@ You will receive such type of email notification when price drops:
 
 Extract and build this code at different location and you are good to go! configure it for another product in the same way as done before.
 
-## Errors? Crashes?
+## Errors? Crashes?.
 Filling wrong information can cause program to crash. In such cases, delete the folder where you have kept this source code and then download and copy the fresh code and configure again.
