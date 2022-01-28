@@ -3,7 +3,7 @@ This is main program which will take necessary information for keeping track of 
 favourite product and calls scraper.py and plotter.py as per the requirement.
 
 Author : Suraj838 (Suraj Kumar)
-Date : 17aug 2021
+Date : 13 dec 2021
 '''
 
 import sys
