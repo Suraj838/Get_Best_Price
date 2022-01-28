@@ -2,8 +2,8 @@
 This script scraps data from the stores url and it checks for current price and if current price
 is less than the threshold set by user, it will also send mail to mail_id set up by user
 
-Author : Abhishek-2k19 (Abhishek S. Purohit)
-Date : 13th May 2021
+Author : Suraj838 (Suraj Kumar)
+Date : 13th Dec 2021
 '''
 
 from bs4 import BeautifulSoup
