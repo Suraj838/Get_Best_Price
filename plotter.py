@@ -1,8 +1,8 @@
 '''
 This script will plot the price data against time with the help of plotly library.
 
-Author : Abhishek-2k19 (Abhishek S. Purohit)
-Date : 13th May 2021
+Author : Suraj838 (Suraj Kumar)
+Date : 13th Dec 2021
 '''
 
 import pandas as pd
